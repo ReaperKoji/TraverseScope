@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/PathHunter-%20-purple?style=for-the-badge&logo=python&logoColor=white" width="400">
+  <img src="https://img.shields.io/badge/TraverseScope-%20-purple?style=for-the-badge&logo=python&logoColor=white" width="400">
   <br>
   🧭 TraverseScope 🧠  
 </h1>
