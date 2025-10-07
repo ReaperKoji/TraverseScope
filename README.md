@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/PathHunter-%20-purple?style=for-the-badge&logo=python&logoColor=white" width="400">
   <br>
-  🧭 PathHunter 🧠  
+  🧭 TraverseScope 🧠  
 </h1>
 
 <p align="center">
